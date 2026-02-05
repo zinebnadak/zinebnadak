@@ -1,11 +1,11 @@
 
-## Helloo! 🧚🏼‍♀️
+## Helloo! 🧚
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
 My name is Zineb, I’m a first-year student and solopreneur focusing on learning by building. 
 
 
-Right now I’m working on 👩🏽‍💻
+Right now I’m working on 🤍
 
 ♡ - Web fundamentals (HTML, CSS, JavaScript, SQL)
 
@@ -18,7 +18,7 @@ Right now I’m working on 👩🏽‍💻
 ♡ - Git, GitHub, and clean development workflows
 
 
-### What I’m interested in 💞
+### What I’m interested in 🤍
 
 ♡ - Writing clean, understandable code
 
