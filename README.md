@@ -51,5 +51,6 @@ Right now I’m working on 🤍
 ♡ - Git & GitHub
 
 💌 You can reach me at: hello@nadak.ai or zineb@nadak.ai
+
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
