@@ -1,8 +1,8 @@
 
-## Hello, I'm Zineb 🧚🏼‍♀️
+## Helloo! 🧚🏼‍♀️
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
-I’m a first-year student and solopreneur focusing on learning by building. 
+My name is Zineb, I’m a first-year student and solopreneur focusing on learning by building. 
 
 
 Right now I’m working on 👩🏽‍💻
