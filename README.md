@@ -10,7 +10,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 Right now I’m working on 🤍
 
-♡ - Web fundamentals (HTML, CSS, JavaScript, SQL)
+♡ - Web & Programming fundamentals (Python, HTML, CSS, JavaScript, SQL)
 
 ♡ - Building small systems that automate repetitive workflows
 
@@ -37,10 +37,6 @@ Right now I’m working on 🤍
 ♡ - Ship small, complete projects in days. Yes, days. 
 
 ♡ - Prioritize simplicity and correctness over overengineering
-
-♡ - Learn how real-world codebases are structured and maintained
-
-♡ - Become comfortable reading and understanding unfamiliar code
 
 ♡ - Contribute to open source once I can add meaningful value
 
