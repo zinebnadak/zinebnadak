@@ -1,5 +1,3 @@
-![White Hearts](https://raw.githubusercontent.com/github/explore/main/topics/heart/heart.png) 
-![White Hearts](https://raw.githubusercontent.com/github/explore/main/topics/heart/heart.png) 
 ![White Hearts](https://raw.githubusercontent.com/github/explore/main/topics/heart/heart.png)
 
 
