@@ -1,7 +1,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,html,css,sql,git" />
 
-## Hello, I'm Zineb 👾
+## Hello, I'm Zineb 👋
 
 I’m a first-year student and solopreneur focusing on learning by building.
 
