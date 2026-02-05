@@ -4,6 +4,7 @@
 
 I’m a first-year student and solopreneur focusing on learning by building. 
 
+
 Right now I’m working on 👩🏽‍💻
 
 ♡ - Web fundamentals (HTML, CSS, JavaScript, SQL)
@@ -16,6 +17,7 @@ Right now I’m working on 👩🏽‍💻
 
 ♡ - Git, GitHub, and clean development workflows
 
+
 ### What I’m interested in 💞
 
 ♡ - Writing clean, understandable code
@@ -25,6 +27,7 @@ Right now I’m working on 👩🏽‍💻
 ♡ - Chatbots (LLM-based)
 
 ♡ - APIs (REST, custom integrations)
+
 
 ### Current goals 🎯
 
@@ -38,6 +41,7 @@ Right now I’m working on 👩🏽‍💻
 
 ♡ - Contribute to open source once I can add meaningful value
 
+
 ### Tech I’m learning ↻
 
 ♡ - Workflow automation
@@ -47,4 +51,5 @@ Right now I’m working on 👩🏽‍💻
 ♡ - Git & GitHub
 
 💌 You can reach me at: hello@nadak.ai or zineb@nadak.ai
+♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
