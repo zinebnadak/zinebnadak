@@ -8,33 +8,9 @@
 I’m a first-year student and solopreneur focusing on learning by building. 
 
 
-## Right now I’m working on 🤍
-
-♡ - Web & Programming fundamentals (Python, HTML, CSS, JavaScript, SQL)
-
-♡ - Building small systems that automate repetitive workflows
-
-♡ - Exploring practical uses of AI (LLMs, APIs, basic integrations)
-
-♡ - Learning how to design simple, reliable automations end-to-end
-
-♡ - Git, GitHub, and clean development workflows
-
-
-## What I’m interested in 💞
-
-♡ - Writing clean, understandable code
-
-♡ - AI automation & workflow integration
-
-♡ - Chatbots (LLM-based)
-
-♡ - APIs (REST, custom integrations)
-
-
 ## Current goals 🎯
 
-♡ - Ship small, complete projects in days. Yes, days. 
+♡ - Writing clean, understandable code 
 
 ♡ - Prioritize simplicity and correctness over overengineering
 
@@ -43,9 +19,9 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ## Tech I’m learning ↻
 
-♡ - Workflow automation
+♡ - Workflow automation + APIs
 
-♡ - APIs
+♡ - Web/ Development 
 
 ♡ - Git & GitHub
 
