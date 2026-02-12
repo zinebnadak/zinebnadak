@@ -10,7 +10,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ## Current goals 🎯
 
-♡ - Writing clean, understandable code 
+♡ - Utilizing variants of AI to write clean, understandable code and debug 
 
 ♡ - Prioritize simplicity and correctness over overengineering
 
