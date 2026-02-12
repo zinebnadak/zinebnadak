@@ -19,9 +19,9 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ## Tech I’m learning ↻
 
-♡ - Workflow automation + APIs
-
 ♡ - Web/ Development 
+
+♡ - Workflow automation + APIs
 
 ♡ - Git & GitHub
 
