@@ -25,6 +25,11 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ♡ - Git & GitHub
 
+## Current side-project
+
+♡ - Building Zizo 1.0
+
+
 💌 You can reach me via email: zineb@nadak.ai
 
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
