@@ -25,7 +25,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ♡ - Git & GitHub
 
-💌 You can reach me at: hello@nadak.ai or zineb@nadak.ai
+💌 You can reach me via email: zineb@nadak.ai
 
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
