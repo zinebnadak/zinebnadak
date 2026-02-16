@@ -10,24 +10,24 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ## Current goals 🎯
 
-♡ - Utilizing variants of AI to write clean, understandable code and debug 
+- Utilizing variants of AI to write clean, understandable code and debug 
 
-♡ - Prioritize simplicity and correctness over overengineering
+- Prioritize simplicity and correctness over overengineering
 
-♡ - Contribute to open source once I can add meaningful value
+- Contribute to open source once I can add meaningful value
 
 
 ## Tech I’m learning ↻
 
-♡ - Web/ Development 
+- Web/ Development 
 
-♡ - Workflow automation + APIs
+- Workflow automation + APIs
 
-♡ - Git & GitHub
+- Git & GitHub
 
 ## Current side-project
 
-♡ - Building Zizo 1.0 🪽 (my soldier)
+- Building Zizo 1.0 🪽 (my soldier)
 
 
 💌 You can reach me via email: zineb@nadak.ai
