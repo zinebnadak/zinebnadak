@@ -1,6 +1,5 @@
 
 # Helloo I´m Zineb! 👋 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=auto) ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=auto)
-### ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
 I’m a first-year student and solopreneur focusing on learning by building. 
 
