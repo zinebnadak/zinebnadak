@@ -34,6 +34,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 ## Current side-project
 
 - Building Zizo 1.0 🪽 (my soldier)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 
 💌 You can reach me via email: zineb@nadak.ai
