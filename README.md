@@ -7,14 +7,11 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=auto)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=auto)
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto)
-
 
 I’m a first-year student and solopreneur focusing on learning by building. 
 
 
-## Current goals 🎯
+## Current goals 🎯 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto)
 
 - Write clean, understandable code and debug 
 
@@ -31,10 +28,10 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 - Git & GitHub
 
-## Current side-project
+## Current side-project ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 - Building Zizo 1.0 🪽 (my soldier)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
 
 
 💌 You can reach me via email: zineb@nadak.ai
