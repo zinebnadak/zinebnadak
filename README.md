@@ -7,8 +7,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 
 ## Current goals & Languages 🎯 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&label=)
 
 - Write clean, understandable code and debug 
 
