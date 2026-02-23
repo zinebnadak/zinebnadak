@@ -1,11 +1,12 @@
 
-# Zineb 🪽 - ## Engineer
+# Zineb 🪽 
+## Engineer.
 
 ---
 
 ## Current Focus
 
-- Engineering clean, maintainable frontend architecture
+- Producing clean, maintainable architecture
 - Thinking in systems 
 - Designing scalable foundations 
 - Improving debugging depth and architectural reasoning
