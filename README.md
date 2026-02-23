@@ -1,31 +1,38 @@
 
-# Helloo I´m Zineb! 👋 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=auto) ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=auto)
+# Zineb
 
-I’m a first-year student and solopreneur focusing on learning by building. 
+First-year Computer Science student building systems, not just assignments.
+I focus on structured learning through real-world projects, turning coursework into long-term infrastructure.
 
+---
 
-## Current goals 🎯 
+## Current Focus
 
-- Write clean, understandable code and debug 
+- Engineering clean, maintainable frontend architecture
+- Thinking in systems rather than isolated features
+- Designing scalable foundations (not shortcuts)
+- Improving debugging depth and architectural reasoning
 
-- Prioritize simplicity and correctness over overengineering
+---
 
-- Contribute to open source once I can add meaningful value
+## Areas of Study
 
+- Web Development (HTML, CSS, JavaScript)
+- System Architecture & Data Modeling
+- APIs and Backend Foundations
+- Workflow Automation
+- Git & Version Control
 
-## Tech I’m learning ↻
+---
 
-- Web/ Development 
+## Active Project 
 
-- Workflow automation + APIs
+### Zizo – Personal AI Operations System
 
-- Git & GitHub
+A local-first AI Agent Management System evolving into a full-stack architecture.
 
-## Current side-project ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-- Building Zizo 1.0 🪽 (my soldier)
-
-
+Current Phase: Frontend MVP  
+Focus: Agent registry, prompt versioning, structured workflow governance.
 
 💌 You can reach me via email: zineb@nadak.ai
 
