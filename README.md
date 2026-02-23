@@ -30,6 +30,7 @@ I’m a first-year student and solopreneur focusing on learning by building.
 💌 You can reach me via email: zineb@nadak.ai
 
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&label=) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![XML](https://img.shields.io/badge/-XML-005A9C?style=flat-square&logo=w3c&logoColor=white)
 
