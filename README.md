@@ -34,8 +34,6 @@ A local-first AI Agent Management System evolving into a full-stack architecture
 Current Phase: Frontend MVP  
 Focus: Agent registry, prompt versioning, structured workflow governance.
 
-💌 You can reach me via email: zineb@nadak.ai
-
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
