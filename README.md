@@ -1,38 +1,36 @@
 
-# Zineb
+# Zineb 🪽
 
-First-year Computer Science student building systems, not just assignments.
-I focus on structured learning through real-world projects, turning coursework into long-term infrastructure.
+Engineer
 
 ---
 
 ## Current Focus
 
 - Engineering clean, maintainable frontend architecture
-- Thinking in systems rather than isolated features
-- Designing scalable foundations (not shortcuts)
+- Thinking in systems 
+- Designing scalable foundations 
 - Improving debugging depth and architectural reasoning
 
 ---
 
 ## Areas of Study
 
-- Web Development (HTML, CSS, JavaScript)
-- System Architecture & Data Modeling
+- Web Development, System Architecture & Data Modeling
 - APIs and Backend Foundations
 - Workflow Automation
 - Git & Version Control
 
 ---
 
-## Active Project 
+## Active Project
 
-### Zizo – Personal AI Operations System
+### Zizo Ops (v0.1) – AI Operations Dashboard
 
-A local-first AI Agent Management System evolving into a full-stack architecture.
+Zizo Ops is a local-first web application designed to manage and govern AI agents used in business operations.
 
-Current Phase: Frontend MVP  
-Focus: Agent registry, prompt versioning, structured workflow governance.
+Current Architecture: Client-side (Frontend MVP)  
+Core Focus: Agent registry, structured workflow control
 
 ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
 
