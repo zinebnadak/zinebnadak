@@ -1,7 +1,6 @@
 
 # Zineb 🪽 
-## Engineer in Information Technology 
-
+## Engineer 
 ---
 ## Areas of Study
 
