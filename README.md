@@ -10,7 +10,7 @@ Find me documenting the journey
 
 - X → [zinebnadak](https://x.com/zinebnadak?s=21)
 - LinkedIn → [zinebnadak](https://www.linkedin.com/in/zinebnadak?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- Newsletter → [coming]
+- Newsletter → coming ☺️
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) 
 
