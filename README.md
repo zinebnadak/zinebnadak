@@ -2,6 +2,16 @@
 # Zineb 🪽 
 ## IT Engineering student · Specialising in AI 
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=auto) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Where I'm going
+RAG systems · Vector Search · AI Agents · Fine-tuning · MLOps · LLM pipelines · Full-stack AI
+
+## Learning in public
+Find me documenting the journey
+
+- X → [zinebnadak](https://x.com/zinebnadak?s=21)
+- LinkedIn → [zinebnadak](https://www.linkedin.com/in/zinebnadak?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Newsletter → [coming]
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=auto) 
 
 
