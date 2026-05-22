@@ -1,9 +1,9 @@
 
 # Zineb 🪽 
-## IT Engineering student · Specialising in Software and AI 
+## IT Engineering student · Specialising in AI engineering
 
 ## Where I'm going
-Fundamentals in software engineering · RAG systems · Vector Search · AI Agents · Fine-tuning · MLOps · LLM pipelines · Full-stack AI
+RAG systems · Vector Search · AI Agents · Fine-tuning · MLOps · LLM pipelines · Full-stack AI
 
 ## Learning in public
 Find me documenting the journey
