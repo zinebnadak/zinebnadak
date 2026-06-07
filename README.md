@@ -3,7 +3,7 @@
 ## IT Engineering student · Specialising in AI engineering
 
 ## Where I'm going
-RAG systems · Vector Search · AI Agents · Fine-tuning · MLOps · LLM pipelines · Full-stack AI
+RAG systems · AI Agents · Production deployment
 
 ## Learning in public
 Find me documenting the journey
