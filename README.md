@@ -1,6 +1,6 @@
 
 # Zineb 🪽 
-## IT Engineering student · Specialising in AI engineering
+## Engineering student · Specialising in AI Development
 
 ## Where I'm going
 RAG systems · AI Agents · Production deployment
