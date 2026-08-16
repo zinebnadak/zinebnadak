@@ -7,8 +7,9 @@
 
 Self-taught AI engineer in the making. I build real RAG systems and AI agents, learn in public, and break down what I figure out along the way.
 
-🌱 &nbsp;I'm currently learning **Production-grade RAG architecture and agent orchestration. 
-Latest: a chatbot for Högskolan på Åland (ha.ax) answering programme &amp; admissions questions**  
+🌱 &nbsp;I'm currently learning Production-grade RAG architecture and agent orchestration. 
+
+#### Latest Project: a chatbot for Högskolan på Åland (ha.ax) answering programme &amp; admissions questions 
 
 
 
