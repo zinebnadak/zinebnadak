@@ -10,6 +10,14 @@ Self-taught AI engineer in the making. I build real RAG systems and AI agents, l
 🌱 &nbsp;I'm currently learning **Production-grade RAG architecture and agent orchestration. Latest: a chatbot for Högskolan på Åland (ha.ax) answering programme &amp; admissions questions**  
 💬 &nbsp;Ask me about **RAG, AI agents, or how to start learning AI engineering as a self-taught beginner**
 
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinebnadak&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -37,13 +45,7 @@ Self-taught AI engineer in the making. I build real RAG systems and AI agents, l
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zinebnadak&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinebnadak&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/zinebnadak">zinebnadak</a></i></p>
+<p align="center"><i> By <a href="https://github.com/zinebnadak">zinebnadak</a></i></p>
 
 
