@@ -1,8 +1,3 @@
-<br/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&pause=1000&color=f778ba&center=true&vCenter=true&repeat=false&width=450&height=44&lines=Hello-I'm%20Zineb%20(Zaynab)" alt="Typing headlines" style="padding-top: 40px;" />
-</p>
-
 ### About Me
 
 Self-taught AI engineer in the making. I build real RAG systems and AI agents, learn in public, and break down what I figure out along the way.
