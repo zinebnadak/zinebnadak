@@ -1,48 +1,51 @@
-### About Me
+## Interface engineer
 
-Self-taught AI engineer in the making. I build real RAG systems and AI agents, learn in public, and break down what I figure out along the way.
-
-🌱 &nbsp;I'm currently learning Production-grade RAG architecture and agent orchestration. 
-
-#### Latest Project: a chatbot for Högskolan på Åland (ha.ax) answering programme &amp; admissions questions 
-
-
-
-### 📈 Contribution Graph
+<div align="center">
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinebnadak&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://www.gitskins.com/api/section/hero?username=zinebnadak&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227515836%3Fu%3Dc752af97fdd41a7b9b0bb1677bfc214adfc74bcf%26v%3D4" alt="zinebnadak hero visual" />
 </p>
 
+<h1>Zineb (Iman) Nadak</h1>
+<p><b>Frontend or full-stack engineer</b></p>
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-</p>
+## How I work
 
-### 🔗 Connect / Collaborate
+> 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zinebnadak?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/zineb_nadak" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:zineb@nadak.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+- 👥 **8** followers · **3** following
 
-### 📊 GitHub Stats
+*Small, useful work over vague claims.*
+
+## Selected interfaces
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/zinebnadak/grit-lab">grit-lab</a></b></td><td>Åland Islands 01 Edu-based coding program, 2-year project-based program, no teachers, no classes. Grit:Lab run in partnership with Paf and has 11 core industry partners plus a handful of institutional supporters. <br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/zinebnadak/ha.ax-chatbot">ha.ax-chatbot</a></b></td><td>New version based on some feedback and new approaches <br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/zinebnadak/ha.ax-chatbot-demo">ha.ax-chatbot-demo</a></b></td><td>Custom built RAG chatbot for Högskolan på Åland - answers questions about programmes and admissions using content from ha.ax.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/zinebnadak/wikipedia-rag-QA">wikipedia-rag-QA</a></b></td><td>An AI assistant that lets you explore and question Wikipedia articles using retrieval-augmented generation. Built on Wikipedia to evaluate performance on large, unstructured datasets.<br/><sub>Python · 0 stars</sub></td></tr>
+</table>
+
+## Frontend toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `Visual Basic .NET` ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Craft notes
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zinebnadak&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=zinebnadak&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227515836%3Fu%3Dc752af97fdd41a7b9b0bb1677bfc214adfc74bcf%26v%3D4" alt="zinebnadak highlights visual" />
 </p>
 
----
-<p align="center"><i> By <a href="https://github.com/zinebnadak">zinebnadak</a></i></p>
+<p><b>Zineb (Iman) Nadak</b> is shipping 18 public projects with 2 stars of proof.</p>
 
+## Let’s build something
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=zinebnadak&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227515836%3Fu%3Dc752af97fdd41a7b9b0bb1677bfc214adfc74bcf%26v%3D4" alt="zinebnadak social visual" />
+</p>
+
+<a href="https://github.com/zinebnadak">GitHub</a>
+
+<p align="center"><sub>Zineb (Iman) Nadak · Frontend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
