@@ -6,6 +6,8 @@
 
 **AI Engineer / FDE**
 
+My core language is Python 🐍
+
 </div>
 
 ## Selected interfaces
