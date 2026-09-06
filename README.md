@@ -10,7 +10,7 @@ My core language is Python 🐍
 
 </div>
 
-## Selected interfaces
+## Highlighted projects
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/zinebnadak/ha.ax-chatbot">ha.ax-chatbot</a></b></td><td>New version based on some feedback and new approaches <br/><sub>Python · 0 stars</sub></td></tr>
