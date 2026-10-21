@@ -4,7 +4,7 @@
 
 <hr style="height:1px;border:none;background-color:#e1e4e8;width:100%;margin:16px 0;" />
 
-**AI Engineer / FDE**
+**AI Engineer**
 
 My core language is Python 🐍
 
