@@ -10,6 +10,10 @@ My core language is Python 🐍
 
 </div>
 
+## Currently building 
+Oktober - November 
+
+
 ## Highlighted projects
 
 <table>
