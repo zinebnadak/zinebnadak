@@ -10,15 +10,14 @@ My core language is Python 🐍
 
 </div>
 
-## Currently building 
-Oktober - November 
-
-
 ## Highlighted projects
 
 <table>
 <tr><td width="32%"><b><a href="link">-</a></b></td><td>-<br/><sub>Python · 0 stars</sub></td></tr>
 </table>
+
+## Currently building 
+Oktober - November 
 
 ## Let’s build something
 <a href="https://wa.me/358403224848">
