@@ -17,7 +17,7 @@ My core language is Python 🐍
 </table>
 
 ## Currently building 
-An AI co-engineer that learns how I think, build and program. Persistent memory, model-agnostic, zizo comes with me everywhere.
+An AI co-engineer that learns how I think, build and program. Persistent memory, model-agnostic, comes with me everywhere.
 
 ## Let’s build something
 <a href="https://wa.me/358403224848">
