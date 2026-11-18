@@ -19,7 +19,3 @@ My core language is Python 🐍
 ## Currently building 
 An AI co-engineer that learns how I think, build and program. Persistent memory, model-agnostic, and will come with me everywhere.
 
-## Let’s build something
-<a href="https://wa.me/358403224848">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
